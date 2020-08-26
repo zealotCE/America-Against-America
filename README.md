@@ -7,3 +7,11 @@
 
 对所有进行了审校，可以保证基本的阅读了。有可能存在个别错别字，需要的话可以反馈或者直接clone-push。
 
+
+
+---
+
+对于国内的小伙伴可能不太方便下载或查阅，可以使用如下方式：
+
+- 百度云：链接: https://pan.baidu.com/s/1ClWN1wnMUqaA-MuDOMWWtg 提取码: x79x
+- 石墨文档（可以直接查看）：https://shimo.im/docs/jt83JQX9W3ccyPHD
