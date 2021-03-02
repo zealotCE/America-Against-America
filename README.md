@@ -23,3 +23,4 @@
 
 - 百度云：链接: https://pan.baidu.com/s/1ClWN1wnMUqaA-MuDOMWWtg 提取码: x79x
 - 石墨文档（可以直接查看）：https://shimo.im/docs/jt83JQX9W3ccyPHD
+- gitbook（可以直接查看）：https://fakegoat.com/aaa/
