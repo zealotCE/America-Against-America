@@ -25,6 +25,4 @@
 - 石墨文档（可以直接查看）：https://shimo.im/docs/jt83JQX9W3ccyPHD
 - gitbook（可以直接查看）：https://fakegoat.com/aaa/
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zealotCE/America-Against-America&type=Date)](https://star-history.com/#zealotCE/America-Against-America&Date)
