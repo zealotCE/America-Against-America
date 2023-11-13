@@ -25,4 +25,9 @@
 - 石墨文档（可以直接查看）：https://shimo.im/docs/jt83JQX9W3ccyPHD
 - gitbook（可以直接查看）：https://fakegoat.com/aaa/
 
+---
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="zealotce" data-color="#BD5FFF" data-emoji="☕" data-font="Cookie" data-text="给我买杯咖啡" data-outline-color="#000000" data-font-color="# ffffff" data-coffee-color="#FFDD00" ></script>
+
+
 
