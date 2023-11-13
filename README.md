@@ -28,6 +28,5 @@
 ---
 
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="zealotce" data-color="#FFDD00" data-emoji="🍵"  data-font="Cookie" data-text="Buy me a coffee&tea" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 <a href="https://www.buymeacoffee.com/zealotce" ><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=zealotce&button_colour=219d53&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" alt="Buy me a coffee&tea" width="250"></a>
